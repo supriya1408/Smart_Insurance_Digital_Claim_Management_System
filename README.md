@@ -1,1 +1,0 @@
-# Smart_Insurance_Digital_Claim_Management_System
