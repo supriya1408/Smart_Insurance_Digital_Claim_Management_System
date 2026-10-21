@@ -2,7 +2,7 @@
 
 Full-stack web application: **Spring Boot 3 REST API** + **plain HTML / CSS / JavaScript frontend**.
 
-> **No npm, no Node.js, no React build.** The frontend is static files that Spring Boot serves directly,
+>  "The frontend is static files that Spring Boot serves directly"
 > so the whole application runs from one command on **http://localhost:8080**.
 
 ---
